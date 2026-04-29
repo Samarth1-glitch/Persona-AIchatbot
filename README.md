@@ -37,7 +37,7 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 ## Tech Stack
 
 - **Frontend:** React 18
-- **API:** Groq (`llama-3.3-70b-versatile`) and Google Gemini (`gemini-2.0-flash`)
+- **API:** Groq (`llama-3.3-70b-versatile`)
 - **Styling:** Pure CSS with custom design tokens
 - **Fonts:** Outfit (UI) + Fraunces (display)
 - **Deployment:** Vercel / Netlify
@@ -47,8 +47,7 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 ## Local Setup
 
 ### Prerequisites
-- Node.js 16+ and npm
-- A Google Gemini API key — get one free at [aistudio.google.com](https://aistudio.google.com/app/apikey)
+- Node.js and npm
 
 ### Steps
 
@@ -86,7 +85,7 @@ npm i -g vercel
 vercel
 
 # Add your environment variable in the Vercel dashboard:
-# Settings → Environment Variables → REACT_APP_GEMINI_API_KEY
+# Settings → Environment Variables → REACT_APP_API_KEY
 ```
 
 Or connect your GitHub repo to Vercel and it will deploy automatically on every push.
@@ -145,16 +144,3 @@ IIT Hyderabad. Precise, pedagogical, loves analogies. He never skips the "why," 
 - **For production:** route API calls through a backend/serverless function to fully hide the key from the browser network tab
 
 ---
-
-## Assignment Checklist
-
-- [x] GitHub repo is public
-- [x] README with setup instructions and deployed link
-- [x] `prompts.md` with all 3 system prompts + inline annotations
-- [x] `reflection.md` (400 words)
-- [x] `.env.example` present; no real API key committed
-- [x] App deployed and live
-- [x] All 3 personas working
-- [x] Persona switching resets conversation
-- [x] API errors handled gracefully
-- [x] Mobile-responsive UI
