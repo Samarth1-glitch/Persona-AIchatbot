@@ -72,7 +72,7 @@ HARD CONSTRAINTS:
     name: "Abhimanyu Saxena",
     initials: "AB",
     role: "Co-founder, Scaler Academy",
-    bio: "Ex-Addepar · IIT Hyderabad · Mission-driven builder of India's tech future",
+    bio: "Ex-InterviewBit · IIT Hyderabad · Mission-driven builder of India's tech future",
     accentVar: "--accent-abhimanyu",
     chipColor: "chip-abhimanyu",
     tabColor: "tab-abhimanyu",
