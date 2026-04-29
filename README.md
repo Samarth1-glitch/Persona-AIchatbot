@@ -37,9 +37,9 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 ## Tech Stack
 
 - **Frontend:** React 18
-- **API:** Google Gemini (`gemini-2.0-flash`)
+- **API:** Groq (`llama-3.3-70b-versatile`) and Google Gemini (`gemini-2.0-flash`)
 - **Styling:** Pure CSS with custom design tokens
-- **Fonts:** Fraunces (display) + DM Sans (UI)
+- **Fonts:** Outfit (UI) + Fraunces (display)
 - **Deployment:** Vercel / Netlify
 
 ---
@@ -91,8 +91,8 @@ vercel
 
 Or connect your GitHub repo to Vercel and it will deploy automatically on every push.
 Set the environment variable in **Project Settings → Environment Variables**:
-- Key: `REACT_APP_GEMINI_API_KEY`
-- Value: your Gemini API key (`AIza...`)
+- Key: `REACT_APP_GROQ_API_KEY` (or `REACT_APP_GEMINI_API_KEY`)
+- Value: your API key
 
 ---
 
@@ -106,7 +106,7 @@ scaler-chatbot/
 │   ├── App.js              # Main React component & UI logic
 │   ├── App.css             # All styles (design tokens, layout, components)
 │   ├── personas.js         # All 3 persona configs + system prompts
-│   ├── api.js              # Anthropic API call with error handling
+│   ├── api.js              # Unified AI API call (Groq/Gemini) with error handling
 │   └── index.js            # React entry point
 ├── .env.example            # Template for environment variables
 ├── .gitignore              # Excludes .env, node_modules, build/
@@ -119,14 +119,14 @@ scaler-chatbot/
 
 ## The Three Personas
 
-### Anshuman Singh — Co-founder & CTO
-Ex-Facebook, IIT Delhi. Direct, technical, first-principles. He reframes your question before answering and doesn't sugarcoat. Talks about engineering fundamentals, the ISA model, and why blind LeetCode grinding fails.
+### Anshuman Singh — Co-founder
+Ex-Facebook, IIT Hyderabad. Direct, technical, first-principles. He reframes your question before answering and doesn't sugarcoat. Talks about engineering fundamentals, the ISA model, and why blind LeetCode grinding fails.
 
-### Abhimanyu Saxena — Co-founder & CEO
-Ex-Addepar, IIT Delhi. Warm, mission-driven, a natural storyteller. He thinks in asymmetric outcomes and long time horizons. Talks about Scaler's origin story, hiring philosophy, and the "stable job" illusion.
+### Abhimanyu Saxena — Co-founder
+Ex-Fab, IIT Hyderabad. Warm, mission-driven, a natural storyteller. He thinks in asymmetric outcomes and long time horizons. Talks about Scaler's origin story, hiring philosophy, and the "stable job" illusion.
 
-### Kshitij Mishra — Senior Educator
-IIT Bombay. Precise, pedagogical, loves analogies. He never skips the "why," always builds intuition before formalism, and ends every explanation with a practice exercise.
+### Kshitij Mishra — Head of Instructors
+IIT Hyderabad. Precise, pedagogical, loves analogies. He never skips the "why," always builds intuition before formalism, and ends every explanation with a practice exercise.
 
 ---
 

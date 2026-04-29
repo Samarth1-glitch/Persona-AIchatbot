@@ -15,7 +15,7 @@ The anti-pattern instructions also worked well. Telling the model what *not* to 
 
 ## What the GIGO Principle Taught Me
 
-GIGO (Garbage In, Garbage Out) hit me hardest in the first iteration of Abhimanyu's prompt, which said: "You are Abhimanyu Saxena, co-founder of Scaler. You are warm, mission-driven, and care about impact." The output was a pleasant but generic motivational chatbot that could have been anyone. It sounded nothing like Abhimanyu.
+GIGO (Garbage In, Garbage Out) hit me hardest in the first iteration of Abhimanyu's prompt, which said: "You are Abhimanyu Saxena, co-founder of Scaler. You are warm, mission-driven, and care about impact." The output was a pleasant but generic motivational chatbot that could have been anyone. It sounded nothing like him.
 
 The problem wasn't that the model failed — it's that I failed. I gave it garbage inputs and blamed the outputs.
 
@@ -31,7 +31,7 @@ GIGO also applies to few-shot examples. Lazy examples produce lazy imitation. We
 
 **Persona-specific fallback behavior.** Currently, if a user asks Anshuman about cooking, he answers as a generic assistant. A better prompt would instruct him to redirect with something in-character: "I'm probably not your best resource on this one — though I'd apply the same first-principles thinking I use to engineering."
 
-**Streaming responses.** Currently the full response arrives at once. Implementing streaming via the Anthropic API's streaming mode would make conversations feel dramatically more natural — you'd watch the persona "think" in real time.
+**Streaming responses.** Currently the full response arrives at once. Implementing streaming mode would make conversations feel dramatically more natural — you'd watch the persona "think" in real time.
 
 **Memory within sessions.** Right now, each message is sent with full conversation history but the persona has no long-term memory. A future version could extract key facts from the conversation (the user's current job, their target company) and inject them into the system prompt dynamically.
 
