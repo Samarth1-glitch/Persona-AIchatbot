@@ -13,17 +13,17 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 ## Screenshots
 
 ### Anshuman Singh
-<img width="100%" alt="Anshuman Singh" src="https://github.com/user-attachments/assets/c6cae549-4e15-4890-9695-07e924d9dc68" />
+<img width="1245" height="1005" alt="Screenshot 2026-04-29 183920" src="https://github.com/user-attachments/assets/2f9c28ad-8c01-4173-b030-2e34911c4285" />
 
 ---
 
 ### Abhimanyu Saxena
-<img width="100%" alt="Abhimanyu Saxena" src="https://github.com/user-attachments/assets/7d89c19d-03b1-44d9-b6ea-253050709365" />
+<img width="1232" height="1017" alt="Screenshot 2026-04-29 184006" src="https://github.com/user-attachments/assets/67baa96a-fdcc-4cc8-8588-28e8d9be2f3f" />
 
 ---
 
 ### Kshitij Mishra
-<img width="100%" alt="Kshitij Mishra" src="https://github.com/user-attachments/assets/1b6fd3dc-ed5e-45cc-8878-9b56414d25dc" />
+<img width="1250" height="1013" alt="Screenshot 2026-04-29 184038" src="https://github.com/user-attachments/assets/46e9f39c-ed1e-46ae-af98-2b6c93fe959d" />
 
 ---
 
