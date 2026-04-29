@@ -12,12 +12,18 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 
 ## Screenshots
 
-| Anshuman Singh | Abhimanyu Saxena | Kshitij Mishra |
-|---|---|---|
-|<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/c6cae549-4e15-4890-9695-07e924d9dc68" />
-|<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/7d89c19d-03b1-44d9-b6ea-253050709365" />
-|<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1b6fd3dc-ed5e-45cc-8878-9b56414d25dc" />
-|
+### Anshuman Singh
+<img width="100%" alt="Anshuman Singh" src="https://github.com/user-attachments/assets/c6cae549-4e15-4890-9695-07e924d9dc68" />
+
+---
+
+### Abhimanyu Saxena
+<img width="100%" alt="Abhimanyu Saxena" src="https://github.com/user-attachments/assets/7d89c19d-03b1-44d9-b6ea-253050709365" />
+
+---
+
+### Kshitij Mishra
+<img width="100%" alt="Kshitij Mishra" src="https://github.com/user-attachments/assets/1b6fd3dc-ed5e-45cc-8878-9b56414d25dc" />
 
 ---
 
