@@ -8,17 +8,16 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 
 ## Live Demo
 
-🚀 **[View Live App](https://your-deployed-url.vercel.app)**
-
-> Replace this URL with your actual deployed URL after deploying to Vercel/Netlify.
-
----
+🚀 **[View Live App](https://persona-a-ichatbot-qho3.vercel.app/)**
 
 ## Screenshots
 
 | Anshuman Singh | Abhimanyu Saxena | Kshitij Mishra |
 |---|---|---|
-| ![Anshuman](screenshots/anshuman.png) | ![Abhimanyu](screenshots/abhimanyu.png) | ![Kshitij](screenshots/kshitij.png) |
+| ![Anshuman](<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/c6cae549-4e15-4890-9695-07e924d9dc68" />
+) | ![Abhimanyu](<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/7d89c19d-03b1-44d9-b6ea-253050709365" />
+) | ![Kshitij](<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/1b6fd3dc-ed5e-45cc-8878-9b56414d25dc" />
+) |
 
 ---
 
@@ -36,11 +35,11 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 
 ## Tech Stack
 
-- **Frontend:** React 18
+- **Frontend:** React
 - **API:** Groq (`llama-3.3-70b-versatile`)
 - **Styling:** Pure CSS with custom design tokens
 - **Fonts:** Outfit (UI) + Fraunces (display)
-- **Deployment:** Vercel / Netlify
+- **Deployment:** Vercel
 
 ---
 
