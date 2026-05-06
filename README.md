@@ -8,7 +8,7 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 
 ## Live Demo
 
-🚀 **[View Live App](https://persona-a-ichatbot-qho3.vercel.app/)**
+🚀 **[View Live App](https://persona-a-ichatbot.vercel.app/)**
 
 ## Screenshots
 
