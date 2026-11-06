@@ -42,7 +42,7 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 ## Tech Stack
 
 - **Frontend:** React
-- **API:** Groq (`llama-3.3-70b-versatile`)
+- **API:** Groq (`openai/gpt-oss-120b`)
 - **Styling:** Pure CSS with custom design tokens
 - **Fonts:** Outfit (UI) + Fraunces (display)
 - **Deployment:** Vercel
