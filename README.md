@@ -58,7 +58,7 @@ Built for the Prompt Engineering assignment at Scaler Academy.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/scaler-persona-chatbot.git
+git clone https://github.com/Samarth1-glitch/scaler-persona-chatbot.git
 cd scaler-persona-chatbot
 
 # 2. Install dependencies
